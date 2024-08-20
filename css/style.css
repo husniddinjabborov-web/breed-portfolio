@@ -676,7 +676,8 @@ header nav i.fa-solid {
 footer {
     max-width: 1600px;
     margin: auto;
-    background-image: url('../svg/Без\ названия.svg');
+    background-image: url('../svg/footer.svg');
+
     background-repeat: no-repeat;
     background-size: 100% 100%;
     background-position: center;
