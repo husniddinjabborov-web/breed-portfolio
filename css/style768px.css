@@ -1,0 +1,36 @@
+@media (max-width: 768px) {
+    /* ABOUT */
+
+    .about .about-card .about-left {
+        display: block;
+    }
+
+    /* SERVICES */
+
+    .services .services-container {
+        justify-content: flex-start;
+    }
+
+    .services .services-container .services-item {
+        flex: 0 0 100%;
+    }
+
+    /* PORTFOLIO  */
+
+    .portfolio .portfolio-body {
+        flex-direction: column;
+    }
+
+    .portfolio .portfolio-body .portfolio-right .flex {
+        flex-direction: column;
+    }
+
+    /* BLOG */
+    .blog .blog-continer {
+        justify-content: flex-start;
+    }
+
+    .blog .blog-continer .blog-item {
+        flex: 0 0 100%;
+    }
+}
