@@ -1,4 +1,7 @@
 @media (max-width: 768px) {
+    main {
+        padding: 0;
+    }
     /* ABOUT */
 
     .about .about-card .about-left {
